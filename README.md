@@ -19,7 +19,7 @@ In this study, DESeq2, a Bioconductor package is used to estimate the count diff
 
 <img src="top_10_de_genes_rna_seq.png"></img>
 
-<b>Table 1</b>. Top 10 Differentially Expressed Genes by Chemical
+<b>Table 1</b>. Top 10 Differentially Expressed Genes by Chemicals
 
 <img src="hist_scatter_combined.png"></img>
 
@@ -45,7 +45,7 @@ In order to better understand the genes that were differentially expressed betwe
 
 <img src="top_10_de_genes.png"></img>
 
-<b>Table 2</b>. Top 10 Differentially Expressed Genes by Chemical
+<b>Table 2</b>. Top 10 Differentially Expressed Genes by Chemicals
 
 <img src="microarray.png"></img>
 
