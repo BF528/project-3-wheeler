@@ -67,6 +67,8 @@ Our results suggest that the two platforms do not concordant with each other wel
 
 Overall, this study is consistent with the original paper on the concordance dependency of treatment effect between RNA-Seq and microarrays, but did not successfully reproduce the same pathway enrichment and clustered heatmap. 
 
+One challenge is making clustered heatmaps for all the DEGs from the normalized matrix, and trying to make it consistent with each MOA group. The needed information is which sample represented what kind of treatment or control, and how could the matrix be changed and filtered so that it could show desired clustering but meanwhile it is still objectively scientific? 
+
 # References
 
 1.	Wang C, et al. A comprehensive study design reveals treatment- and transcript abundance-dependent concordance between RNA-seq and microarray data. Nat Biotechnol. 2014 Sep; 32(9): 926-932
